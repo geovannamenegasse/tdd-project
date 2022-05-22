@@ -1,0 +1,8 @@
+Primeiramente escrevemos um teste funcional e o rodamos.
+Se ele falhar, vamos para a etapa de escrever algum código.
+Escrevemos um teste de unidade e o rodamos.
+Se ele falhar, escrevemos algum código para que ele possa passar.
+Rodamos novamente e, se ele passar, refatoramos o código. 
+Voltamos para a parte do teste funcional e o rodamos novamente.
+Se ele passar, refatoramos o código, sempre utilizando os testes
+para garantir que não quebramos nada. 
