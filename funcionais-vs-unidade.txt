@@ -1,0 +1,7 @@
+Testes Funcionais focam no ponto de vista do usuário externo,
+ajudando a construir uma aplicação com funcionalidades corretas.
+Testes de Unidade focam no ponto do desenvolvedor, ajudando a 
+escrever um código limpo e sem bugs.
+
+Testes Funcionais são sobre uma nova funcionalidade.
+Testes de Unidade são sobre pequenas unidades do código e seus comportamentos.
